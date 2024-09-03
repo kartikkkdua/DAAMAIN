@@ -22,7 +22,7 @@ int main() {
             high=mid - 1;
         }
   }
-    if (f=!0) {
+    if (f!=0) {
         printf("Element not found in the array.\n");
     }
 
